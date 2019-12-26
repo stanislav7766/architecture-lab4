@@ -1,0 +1,5 @@
+split aqw:bf:sff :
+print hello1
+split dd;fr;3g ;
+print hello2
+something else
